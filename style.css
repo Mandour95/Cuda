@@ -1,0 +1,511 @@
+body{
+    font-family: "Titillium Web";
+}
+
+/*Section #1*/
+
+*{
+    padding: 0;
+    margin: 0;
+}
+#sec1{
+    height: 600px;
+    background-color: #87509c; 
+}
+
+/*navigation bar*/
+
+.nav{
+    font-family: "Titillium Web";
+    font-size: 14pt;
+    text-align: right;
+    color: #f6f3f7;
+    float: right;
+    margin-top: 45px;
+    text-decoration: none;
+    background-color: #87509c;
+    padding: 10px 22px;
+}
+.p1{
+    text-align: center;
+    font-family: "Titillium Web";
+    font-weight: bold;
+    color: #f6f3f7;
+    font-size: 40pt;
+    padding: 40px;
+    padding-top: 100px;   
+}
+
+/*Work with us button*/
+
+.button1{
+    text-align: center;
+    background-color: #eb7d4b;
+    border: none;
+    font-size: 18pt;
+    font-family: "Titillium Web";
+    padding: 14px 60px; 
+    display: block;
+    margin: auto;
+    color: #f6f3f7;
+    margin-top: 50px;
+    box-shadow: 0 5px #c86a40;
+    border-radius: 5px;
+}
+
+/*Cuda logo*/
+
+.logo{
+    position: static;
+    margin-top: 45px;
+    margin-left: 120px;  
+}
+
+/* selected link */
+
+.nav:hover {
+    background-color: #663b7b;
+    border-radius: 3px;  
+}
+body{
+    margin: 0px;
+    padding: 0px;
+}
+
+/*Section #2*/
+
+#Sec2{
+    background-color: #17c2a4;
+    margin: 0;
+    padding: 0; 
+    position: static;
+    height: 800;
+    text-align: center;
+}
+.p2{
+    font-family: "Titillium Web";
+    font-size: 41pt;
+    color: #f6f3f7;
+    text-align: center;
+    font-weight: bolder; 
+    height: 100px;
+    padding-top: 60px;
+}
+.p3{
+    color: #f6f3f7;
+    font-family: "Titillium Web";
+    font-size: 19pt;
+    text-align: center; 
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.branding{
+    color: #f6f3f7;
+    font-size: 20pt;
+    text-align: center;  
+}
+.p4{
+    font-size: 16pt;
+    line-height: 1.3; 
+    padding: 2px 0; 
+    border-left: 20px;
+    width: 200px;
+    color: #f6f3f7;
+    position: relative;
+    text-align: center;
+}
+.design{
+    color: #f6f3f7;
+    font-size: 20pt;  
+}
+.p5{   
+    font-size: 16pt;
+    line-height: 1.3; 
+    padding: 2px 0; 
+    border-left: 20px;
+    width: 200px;
+    color: #f6f3f7;
+    position: relative;
+    
+}
+.development{
+    color: #f6f3f7;
+    font-size: 20pt;
+}
+.p6{
+    font-size: 16pt;
+    line-height: 1.3; 
+    padding: 2px 0; 
+    border-left: 20px;
+    width: 200px;
+    color: #f6f3f7;
+    position: relative;
+}
+.rocket{
+    color: #f6f3f7;
+    font-size: 20pt;
+}
+.p7{
+    font-size: 16pt;
+    line-height: 1.3; 
+    padding: 2px 0; 
+    border-left: 20px;
+    width: 200px;
+    color: #f6f3f7;
+    position: relative;
+}
+
+/* section 2 divs*/
+
+#flag{
+    padding: 30px;
+    display: inline-block;
+    align-items: center; 
+}
+#pencil{
+    padding: 30px;
+    display: inline-block;
+    align-items: center;   
+}
+#gear{
+    padding: 30px;
+    display: inline-block;
+    align-items: center;
+    
+}
+#rocket{
+    padding: 30px;
+    display: inline-block;
+    align-items: center;
+}
+
+/* Section 3*/
+
+#sec3{
+    background-color: #e7f1f8;
+    height: 700px;
+    text-align: center;
+}
+#CEO{
+    display: inline-block;
+    padding: 30px;
+}
+#Director{
+    display: inline-block;
+    padding: 30px;
+}
+#Designer{
+    display: inline-block;
+    padding: 30px;
+}
+#SEO{
+    display: inline-block;
+    padding: 30px;
+}
+
+/*section 3 content*/
+
+.p8{
+    padding-top: 60px;
+    font-size: 38pt;
+    color: #3c4761;
+    text-align: center;
+    font-weight: bolder;
+    letter-spacing: 10px;
+    margin-bottom: 30px;
+}
+.p9{
+    color: #3c4761;
+    font-size: 16pt;
+    text-align:center;
+    margin-bottom: 50px;
+}
+.img{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+.jobtitle{
+    color: #48c1e9;
+    font-size: 14pt;
+    text-align: center;
+}
+.names1{
+    font-weight: bolder;
+    font-size: 20pt;
+    color: #27283d;
+    text-align: center;
+}
+.teamdisc{
+    width: 200px;
+    color: #3c4761;
+    
+}
+
+/*section 4*/
+
+#sec4{
+    background-color: #ffffff;
+    height: 700px;
+    text-align: center;
+}
+.p10{
+    font-size: 42pt;
+    font-weight: bolder;
+    color: #27283d;
+    text-align: center;
+    margin-bottom: 50px;
+    padding-top: 60px;
+}
+.p11{
+    font-size: 20pt;
+    color: #27283d;
+    text-align: center;
+    margin-bottom: 60px;
+    
+}
+#web-design{
+    display: inline-block;
+    padding: 30px;
+    position: relative;
+    text-align: center;
+    
+}
+#html-css{
+    display: inline-block;
+    padding: 30px;
+    position: relative;
+    text-align: center;
+    
+}
+#graphic-design{
+    display: inline-block;
+    padding: 30px;
+    position: relative;
+    text-align: center;
+}
+#ui-ux  {
+    display: inline-block;
+    padding: 30px;
+    position: relative;
+    text-align: center;
+}
+.percentage{
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 38pt;
+    color: #3c4761;
+}
+.h5{
+    text-align: center;
+    color: #3c4761;
+    font-size: 24pt;
+}
+.img{
+    height: auto;
+}
+
+/* section 5*/
+
+#sec5{
+    height: 1500px;
+    background-color: #ffdd99;
+    text-align: center;
+}
+.p12{
+    font-weight: bold;
+    font-size: 39pt;
+    color: #393939;
+    text-align: center;
+    padding-top: 60px;
+}
+.p13{
+    font-size: 18pt;
+    color: #393939;
+    text-align: center;
+    margin-top: 60px;
+    font-weight: 700;
+}
+.button-sec5{
+    margin-top: 30px;
+    margin-bottom: 30px;
+    margin-left: 5px;
+    width: 70px;
+    height: 30px;
+    background-color: #e5c37f;
+    text-decoration: none;
+    border: none;
+    border-radius: 6px;
+    color: #393939;
+    font-weight: 600;
+    
+}
+.button-sec5:hover{
+    background-color: white;
+}
+#div-sec5{
+    display: inline-block;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.img1{
+    margin-bottom: 15px;
+}
+.p14{
+    font-size: 14pt;
+    color: #393939;
+    font-weight: bold;
+}
+.button2-sec5{
+    border: none;
+    border-radius: 4px;
+    background-color: #1ac2a4;
+    height: 66px;
+    width: 293px;
+    color: white;
+    font-size: 16pt;
+    box-shadow: 0 5px #17b599;
+}
+
+/*section 6*/
+
+#sec6{
+    height: 900px;
+    background-color: #d74680;
+    text-align: center;
+}
+.img2{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    float: left;
+    margin-right: 25px;
+    margin-bottom: 25px;
+}
+#div-sec6{
+    display: inline-block;
+    width: 450px;
+    margin-left: 30px;
+    margin-bottom: 60px;
+    
+}
+.p15{
+    margin-bottom: 40px;
+    font-size: 36pt;
+    font-weight: bold;
+    color: #fff;
+    padding-top: 60px;
+    
+}
+.p16{
+    font-size: 16pt;
+    color: #fff;
+    margin-bottom: 50px;
+}
+.p17{
+    font-size: 15pt;
+    color: #fff;
+    text-align: justify;
+    float: right;
+    letter-spacing: -1;
+}
+.p18{
+    font-size: 22pt;
+    color: #fff;
+    font-weight: bold;
+}
+.p19{
+    font-size: 16pt;
+    color: #fac996;
+}
+
+/* Section 7 */
+
+#sec7{
+    height: 750px;
+    text-align: center;
+    background-color: #3c5499;   
+}
+.p20{
+    color: #fff;
+    font-weight: bold;
+    font-size: 36pt;
+    letter-spacing: 5px;
+    line-height: 3;
+    padding-top: 50px;   
+}
+.p21{
+    font-size: 17pt;
+    padding: 25px;
+    color: #fff;  
+}
+.text{
+    height: 40px;
+    width: 328px;
+    padding: 12px 20px;
+    margin: 10px 10px;
+    border: 1px solid #273a71;
+    background-color: #273a71;
+    border-radius: 4px;
+    box-sizing: border-box;  
+    display: inline-block;
+    color: #fff;
+}
+.message{
+    height: 250px;
+    width: 680px;
+    padding: 12px 20px;
+    margin: 10px 10px;
+    border: 1px solid #273a71;
+    background-color: #273a71;
+    border-radius: 4px;
+    box-sizing: border-box;
+    display: inline-block;
+    outline: none;
+    font-family: "Titillium Web";
+    color: #fff;
+    font-size: 12pt;
+    resize: none;
+}
+::placeholder {
+    color: #fff;
+    text-align: left; 
+    font-family: "Titillium Web";
+    font-size: 12pt;
+}
+.submit{
+    background-color: #30bae7;
+    box-shadow: 0 5px #299ec5;
+    border: none;
+    border-radius: 4px;
+    padding: 16px 60px;
+    margin-top: 30px;
+    color: #fff;
+    font-family: "Titillium Web";
+    font-size: 12pt;
+}
+
+/* section 8 */
+
+#sec8{
+    height: 100px;
+    text-align: center;
+    background-color: #344b8e;
+}
+.social:link{
+    font-size: 22pt;
+    text-decoration: none;
+    color: white;
+    padding:20px;
+    color: #fff;
+    font-weight: bold;
+    display: inline-block;
+}
+.social:visited{
+    color: #fff;
+}
+.social:hover{
+    color: #30abdb;
+}
